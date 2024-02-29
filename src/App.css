@@ -1,0 +1,9 @@
+.container{
+    height: 10px;
+    width: 100%;
+}
+.progress-container{
+    height: 100%;
+    width: 90%;
+    background-color: rgb(0, 255, 0);
+}
